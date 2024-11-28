@@ -10,11 +10,15 @@
 // let a = 40;
 // console.log(a)
 
-function func1(a=10,b=10){
-    return a+b;
-}
+// function func1(a=10,b=10){
+//     return a+b;
+// }
 
-console.log(func1(20))
+// console.log(func1(20))
+
+//prompt only works in browser
+let name = prompt("Enter your name")
+console.log(name)
 
 
 

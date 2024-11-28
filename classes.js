@@ -30,7 +30,6 @@
 // persons.greet()
 
 //encapsulation
-
 class Car{
     #speed
     constructor(){
